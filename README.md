@@ -1,2 +1,2 @@
 # UhoScript
-Is a simple game engine that is 2d
+A simple game engine that is 2d with the custom Uho Language
