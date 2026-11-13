@@ -1,0 +1,18 @@
+/* Css things again */
+
+
+Body {
+  background-color: #2B2B2B;
+  font-family: 'Arial', sans-serif;
+}
+
+#title {
+  color: #FFFFFF;
+  text-align: center;
+  text-size: 50px;
+}
+
+p {
+  color: #FFFFFF;
+  text-align: center;
+}
