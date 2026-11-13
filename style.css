@@ -2,7 +2,14 @@
 
 
 Body {
-  
-background-color: #2B2B2B;
-  
+  background-color: #2B2B2B;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  text-color: #FFFFFF;
+}
+
+p {
+  text-color: #FFFFFF;
 }
