@@ -6,9 +6,10 @@ Body {
   font-family: 'Arial', sans-serif;
 }
 
-h1 {
+#title {
   color: #FFFFFF;
   text-align: center;
+  text-size: 50px;
 }
 
 p {
